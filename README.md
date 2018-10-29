@@ -1,2 +1,3 @@
 # SojuSimulator
-Software Engineering project
+Software Engineering Project
+Hanyang University 2018
